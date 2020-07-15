@@ -1,2 +1,2 @@
 # SpringSecurityoAuth2
-OAuth2 InMemoryAuth Simple App
+oAuth2 InMemoryAuth Simple App
